@@ -71,7 +71,3 @@ If it lives in a rack or on a timeline, it probably belongs here.
 ## 🙌 Contributing
 
 We ❤️ contributions! Whether it’s fixing a typo in a guide, adding a new console scene or building a helper app. Check out the `CONTRIBUTING.md` in each repository for details.
-
-## 📜 License
-
-Unless otherwise noted **all content is released under the MIT License**. See [`LICENSE`](LICENSE) for full details.
