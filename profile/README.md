@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Replace the source with your real logo if available -->
-  <img src="./assets/mosaik-logo.png" width="120" alt="mosaikberlin logo" />
+  <img src="../assets/mosaik-logo.png" width="120" alt="mosaikberlin logo" />
 </p>
 
 <h1 align="center">Mosaik Berlin • Production Toolkit</h1>
